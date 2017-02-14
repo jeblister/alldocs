@@ -125,6 +125,7 @@ information or non-code examples.
 
 > Blockquotes are blocks that begin with `>`.
 
+
 #### Smart quotes
 
 Single quotes, double quotes, and double-hyphens are automatically replaced to
